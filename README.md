@@ -1,3 +1,16 @@
+# How To...
+
+Change Urls at App.js on lines: 23 and 30.
+
+Line 23 — url of client application
+Line 30 - url of callback url
+
+Change Url at Result.js line 11 - it should be a blockchain server url.
+
+Chnage metaId on line 25 of App.js. It shoulbe be ID of passport that you play with.
+
+To run the test, please click on the react logo when the page is loaded.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
